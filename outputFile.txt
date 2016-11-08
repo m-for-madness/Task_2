@@ -1,0 +1,15 @@
+Name of customer: ff hh
+address: st2
+Total order of this customer: 2345
+Unique code: 625576447
+
+Name of customer: dd gg
+address: st1
+Total order of this customer: 1234
+Unique code: 396180261
+
+Name of customer: qq ee
+address: st3
+Total order of this customer: 5678
+Unique code: 1560911714
+
